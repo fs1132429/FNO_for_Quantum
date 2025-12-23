@@ -1,0 +1,3 @@
+Mean Relative Error (averaged over time steps): 1.440620e-01
+Mean MSE Error (averaged over time steps): 6.962959e-08
+Threshold: 0.0007
