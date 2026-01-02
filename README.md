@@ -4,7 +4,6 @@ This repository contains code for reproducing the results from the paper: [https
 
 Fourier Neural Operators (FNOs) are applied to simulate the time evolution of quantum wavefunctions and Hamiltonian observables for quantum spin systems. This codebase includes data generation, model training, evaluation, and example workflows.
 
-[new_intro_plot.pdf](https://github.com/user-attachments/files/24412617/new_intro_plot.pdf)
 ---
 
 ## Folder Structure
