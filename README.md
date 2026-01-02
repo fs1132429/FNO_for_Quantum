@@ -23,7 +23,7 @@ Fourier Neural Operators (FNOs) are applied to simulate the time evolution of qu
   Contains test files to verify the functions in the `functions/` folder.
 
 - **`wavefunction_input_examples/`**  
-  Example files for training the FNO on **4- and 8-qubit wavefunction inputs**.  
+  Example files for training and evaluating the FNO on **4- and 8-qubit wavefunction inputs**.  
   Includes both **random** and **low-energy** input cases.
 
 ---
