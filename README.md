@@ -12,6 +12,7 @@ Fourier Neural Operators (FNOs) are applied to simulate the time evolution of qu
   Contains the main functions for data generation and FNO architectures.  
   - Supports different input types: **wavefunctions** and **Hamiltonian observables**.  
   - Handles different input states: **random** or **low-energy** wavefunctions.
+  - Provides DataLoaders for different FNO architectures, including time-domain and energy-domain models.
 
 - **`hamiltonian_observable_examples/`**  
   Example workflow demonstrating how a trained FNO for a **20-qubit Hamiltonian observable** is tested on new data and used to extrapolate future time steps.
